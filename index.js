@@ -24,3 +24,5 @@ return newArray
 }
 
 appendDriver("Broom")
+
+function
