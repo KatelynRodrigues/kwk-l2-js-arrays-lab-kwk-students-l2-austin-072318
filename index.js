@@ -30,7 +30,7 @@ function prependDriver(name){
   return newArray
 }
 
-function prependDriver(name){
-  var newArray = [name, ...drivers]
+function removeLastDriver(){
+  var newArray = drivers.pop()
   return newArray
 }
